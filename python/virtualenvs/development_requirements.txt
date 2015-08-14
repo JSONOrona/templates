@@ -1,0 +1,12 @@
+requests
+ipython
+beautifulsoup
+flask
+sqlalchemy
+tox
+mock
+coverage
+pylint
+pep8
+numpy
+keyring
